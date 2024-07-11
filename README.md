@@ -53,18 +53,14 @@ To run this project locally, follow these steps:
    - Open phpMyAdmin (usually at `http://localhost/phpmyadmin`).
    - Create a new database for the project.
 
-6. **Set Up Environment Variables:**
-   Create a `.env` file in the root directory and add your environment variables (e.g., database connection strings, API keys).
-   
-   ```
 
-7. **Run the Application:**
+6. **Run the Application:**
    ```bash
    
    python app.py runserver  # 
    ```
 
-8. **Access the Website:**
+7. **Access the Website:**
    Open your browser and navigate to `http://localhost:5000` (for Flask) or `http://localhost:8000` (for Django) to view the website.
 
 ## Usage
